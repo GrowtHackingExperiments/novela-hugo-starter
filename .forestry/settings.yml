@@ -19,8 +19,8 @@ sections:
 - type: heading
   label: Data
 - type: directory
-  path: content/authors
-  label: Authors
+  path: content/auteurs
+  label: Auteurs
   create: all
   match: "**/_index.md"
   templates:
